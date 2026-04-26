@@ -3,7 +3,7 @@
   import PhoneMockup from '../components/PhoneMockup.svelte';
 </script>
 
-<div class="min-h-full w-full flex flex-col justify-center items-center px-6 md:px-12 py-16 md:py-20 bg-green-pale/30 relative">
+<div class="min-h-full w-full flex flex-col justify-center items-center px-6 md:px-12 py-14 md:py-18 bg-green-pale/30 relative">
   <div class="absolute inset-0 bg-gray-50/50 pointer-events-none"></div>
 
   <div class="w-full max-w-6xl mx-auto text-center mb-2 md:mb-4 z-10" in:fly={{ y: -30, duration: 600, delay: 200 }}>
