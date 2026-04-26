@@ -11,12 +11,12 @@
 
   <div class="flex flex-col md:flex-row justify-center items-center md:items-start gap-10 md:gap-32" in:fly={{ y: 50, duration: 800, delay: 400 }}>
     <PhoneMockup 
-      imagePath="src/assets/ui/Scan.png" 
+      imagePath="/assets/ui/Scan.png" 
       label="Scan & Identifikasi Jenis Sampah" 
       textColor="text-gray-800"
     />
     <PhoneMockup 
-      imagePath="src/assets/ui/Nearby Bin Information.png" 
+      imagePath="/assets/ui/Nearby Bin Information.png" 
       label="Kapasitas Tempat Sampah Real-Time" 
       textColor="text-gray-800"
     />

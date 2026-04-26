@@ -13,12 +13,12 @@
 
   <div class="flex flex-col md:flex-row justify-center items-center md:items-start gap-10 md:gap-32 z-10" in:fly={{ y: 50, duration: 800, delay: 400 }}>
     <PhoneMockup 
-      imagePath="src/assets/ui/Home.png" 
+      imagePath="/assets/ui/Home.png" 
       label="Dashboard Poin & Statistik Sampah" 
       textColor="text-white"
     />
     <PhoneMockup 
-      imagePath="src/assets/ui/On Boarding 1.png" 
+      imagePath="/assets/ui/On Boarding 1.png" 
       label="Onboarding yang Informatif" 
       textColor="text-white"
     />

@@ -14,14 +14,14 @@
   <div class="flex flex-col md:flex-row justify-center items-center md:items-start gap-10 md:gap-32 z-10" in:fly={{ y: 50, duration: 800, delay: 400 }}>
     <div class="scale-100 lg:scale-110 origin-top">
       <PhoneMockup 
-        imagePath="src/assets/ui/Get Nearby Partner.png" 
+        imagePath="/assets/ui/Get Nearby Partner.png" 
         label="Cari Mitra KawanHijau Terdekat" 
         textColor="text-white"
       />
     </div>
     <div class="scale-100 lg:scale-110 origin-top">
       <PhoneMockup 
-        imagePath="src/assets/ui/Get Way to Partner.png" 
+        imagePath="/assets/ui/Get Way to Partner.png" 
         label="Arah Otomatis ke Lokasi Mitra" 
         textColor="text-white"
       />

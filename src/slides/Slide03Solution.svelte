@@ -38,7 +38,7 @@
     <div class="flex-1 flex justify-center mt-12 md:mt-0 relative">
       <!-- Decor background circle -->
       <div class="absolute rounded-full bg-green-pale w-[500px] h-[500px] -z-10 top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 opacity-50 blur-3xl"></div>
-      <PhoneMockup imagePath="src/assets/ui/Splash Screen.png" label="" />
+      <PhoneMockup imagePath="/assets/ui/Splash Screen.png" label="" />
     </div>
 
   </div>
